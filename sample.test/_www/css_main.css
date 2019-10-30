@@ -1,0 +1,111 @@
+body {
+   background: #EAE2FF;
+}
+	
+#Header{
+	background: #464646;
+	height: 110px;
+}
+
+.logo_text {
+font-size: 30px;
+color: white;
+}
+
+.logo_text:hover {
+
+color: white;
+text-decoration: none;
+}
+
+
+.logo_div {
+
+  text-align: center;
+
+  color: white;
+
+}
+
+
+#find_str {
+
+    padding-top: 2%;
+}
+
+#cont{ 
+
+  background: linear-gradient(to top, #ffffff -1000%, #f0ae9e 10000%);
+  height: 95%;
+
+  margin-top: 25px;
+  margin-bottom: 20px;
+  
+  
+  box-shadow: 0 10px 20px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  padding: 0;
+}
+
+ .cont_up{
+  background: #e8e8e8;
+  text-align: center;
+ }
+
+.form-control {
+
+  border-radius: 1px;
+}
+
+#btn-submit {
+
+    background: #e17055;
+    color: #dfe6e9;
+
+    margin-top: 3%;
+}
+
+.topic-table {
+
+    background:#e17055;
+    border-top: 0.5px solid #2d3436;
+    border-right: 0.5px solid #2d3436;
+
+    font-family: "Exo 2 Medium";
+    color: #2d3436;
+    width: inherit;
+
+}
+
+.item-table {
+
+    border-right: 0.5px solid #2d3436;
+    border-top: 0.5px solid #2d3436;
+    height: inherit;
+
+
+    background: #dfe6e9;
+}
+
+.valid-form {
+
+    margin-top: 10%;
+}
+
+.font-style {
+
+    color: #636e72;
+    font-family: "Exo 2 Light";
+}
+
+#table {
+
+    width: inherit;
+    height: 50px;
+    margin-left: 0
+}
+
+.family {
+
+    height: inherit;
+
+}
